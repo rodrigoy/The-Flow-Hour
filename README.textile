@@ -1,6 +1,6 @@
 h1. The Flow Hour
 
-_created by Rodrigo Yoshima_("@rodrigoy":http://twitter.com/rodrigoy)
+_created by Rodrigo Yoshima_ ("@rodrigoy":http://twitter.com/rodrigoy)
 
 h2. What
 
