@@ -1,22 +1,22 @@
 h1. The Flow Hour
 
-_created by Rodrigo Yoshima _("@rodrigoy":http://twitter.com/rodrigoy)
+_created by Rodrigo Yoshima_("@rodrigoy":http://twitter.com/rodrigoy)
 
 h2. What
 
-The Flow Hour is a training group activity that explain some important Lean and Kanban concepts like batch size, pull, value chain, workflow visualization, process design, limiting the work in progress, bottlenecks and much more.
+The Flow Hour is a group training activity that explain some important Lean and Kanban concepts like batch size, pull, value chain, workflow visualization, process design, limiting the work in progress, bottlenecks and much more.
 
-Inspired by the "Extreme Hour":http://xp.c2.com/ExtremeHour.html, Teams are presented to Kanban concepts delivering a sample project they must build using paper prototyping, test cases and CRC cards. It was designed to offer the student a real experience with Kanban, including teamwork, swarming moments and challenging problems.
+Inspired by the "Extreme Hour":http://xp.c2.com/ExtremeHour.html, teams are presented to Kanban concepts delivering a sample project they must build using paper prototyping, test cases and CRC cards. It was designed to offer the student a real experience with Kanban, including teamwork, swarming moments and challenging problems.
 
 h2. Why?
 
-We at "Aspercom":http://www.aspercom.com.br decided to share this part of our Kanban training to help the development of the community and the interaction of trainers worldwide.
+We at "Aspercom":http://www.aspercom.com.br decided to share this part of our Kanban training to help community development and the interaction of trainers worldwide.
 
-We also expect comments and reports of trainers and companies applying "The Flow Hour" so we can continuously improve it. We need help specially on the translation since our trainers are not native english speakers.
+We also expect comments and reports from trainers and companies applying "The Flow Hour" so we can continuously improve it. We need help specially on the translation since our trainers are not native english speakers. Open an issue at https://github.com/rodrigoy/The-Flow-Hour/issues.
 
 h2. License / Copyrights
 
-We are deciding the license model that will achieve our objectives. By this time our restriction is that you can't run "The Flow Hour" commercially (ex. paid courses) in Brazil. Foreigner trainer can try "The Flow Hour" but we demand comments and improvements feedback.
+We are deciding the license model that will achieve our objectives. By this time our restriction is that you can't run "The Flow Hour" commercially (ex. paid courses) in Brazil. Foreigner trainers can try "The Flow Hour" but we demand comments and improvements feedback.
 
 h2. Do I need to be a trainer?
 
