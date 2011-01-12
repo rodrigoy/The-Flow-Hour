@@ -15,7 +15,7 @@ h2. Why?
 
 We at "Aspercom":http://www.aspercom.com.br decided to share this part of our Kanban training to help community development and the interaction of trainers worldwide.
 
-We also expect comments and reports from trainers and companies applying "The Flow Hour" so we can continuously improve it. We need help specially on the translation since our trainers are not native english speakers. Open an issue at https://github.com/rodrigoy/The-Flow-Hour/issues.
+We also expect comments and reports from trainers and companies applying "The Flow Hour" so we can continuously improve it. We need help specially on the translation since our trainers are not native english speakers. Report issues "here":http://github.com/rodrigoy/The-Flow-Hour/issues.
 
 h2. License / Copyrights
 
