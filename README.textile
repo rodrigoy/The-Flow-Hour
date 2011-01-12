@@ -2,6 +2,9 @@ h1. The Flow Hour
 
 _created by Rodrigo Yoshima_ ("@rodrigoy":http://twitter.com/rodrigoy)
 
+*Share your thoughts and experience!*
+The Flow Hour Discussion Forum on GoogleGroups: http://groups.google.com/group/the-flow-hour
+
 h2. What
 
 The Flow Hour is a group training activity that explain some important Lean and Kanban concepts like batch size, pull, value chain, workflow visualization, process design, limiting the work in progress, bottlenecks and much more.
