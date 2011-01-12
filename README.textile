@@ -3,7 +3,7 @@ h1. The Flow Hour
 _created by Rodrigo Yoshima_ ("@rodrigoy":http://twitter.com/rodrigoy)
 
 *Share your thoughts and experience!*
-The Flow Hour Discussion Forum on GoogleGroups: http://groups.google.com/group/the-flow-hour
+"The Flow Hour Discussion Forum on GoogleGroups":http://groups.google.com/group/the-flow-hour
 
 h2. What
 
